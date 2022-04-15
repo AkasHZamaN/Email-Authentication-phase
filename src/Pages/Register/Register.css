@@ -1,0 +1,17 @@
+.register-container input {
+    display: flex;
+    width: 780px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 576px){
+    .register-container input{
+        width: 350px;
+        border: 2px solid lightgray;
+    }
+    
+}

@@ -1,0 +1,73 @@
+[
+    {
+        "idMeal":"52802",
+        "strMeal":"Fish pie",
+        "strCategory":"Seafood",
+        "strPrice": 260,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ysxwuq1487323065.jpg"
+    },
+        
+    {
+        "idMeal":"53043",
+        "strMeal":"Fish fofos",
+        "strCategory":"Seafood",
+        "strPrice": 240,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/a15wsa1614349126.jpg"
+    },
+    
+    {
+        "idMeal":"52882",
+        "strMeal":"Three Fish Pie",
+        "strCategory":"Seafood",
+        "strPrice": 320,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/spswqs1511558697.jpg"
+    },
+    
+    {
+        "idMeal":"52944",
+        "strMeal":"Escovitch Fish",
+        "strCategory":"Seafood",
+        "strPrice": 450,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/1520084413.jpg"
+    },
+    
+    {
+        "idMeal":"52936",
+        "strMeal":"Saltfish and Ackee",
+        "strCategory":"Seafood",
+        "strPrice": 480,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/vytypy1511883765.jpg"
+    },
+    
+    {
+        "idMeal":"52809",
+        "strMeal":"Recheado Masala Fish",
+        "strCategory":"Seafood",
+        "strPrice": 350,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/uwxusv1487344500.jpg"
+    },
+    
+    {
+        "idMeal":"52918",
+        "strMeal":"Fish Stew with Rouille",
+        "strCategory":"Seafood",
+        "strPrice": 360,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/vptqpw1511798500.jpg"
+    },
+    
+    {
+        "idMeal":"52819",
+        "strMeal":"Cajun spiced fish tacos",
+        "strCategory":"Seafood",
+        "strPrice": 520,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/uvuyxu1503067369.jpg"
+    },
+    
+    {
+        "idMeal":"53045",
+        "strMeal":"Portuguese fish stew (Caldeirada de peixe)",
+        "strCategory":"Seafood",
+        "strPrice": 580,
+        "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/do7zps1614349775.jpg"
+    }
+]
